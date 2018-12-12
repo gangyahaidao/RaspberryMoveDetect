@@ -15,3 +15,6 @@
 * 步骤2：创建build目录，运行
     * cmake ..
     * make
+
+## 运行截图
+![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-12-154513_1024x600_scrot.png)
