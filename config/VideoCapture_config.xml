@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<commit_camera>"启动哪个摄像头，默认0"</commit_camera>
+<CAMERA_NUM>0</CAMERA_NUM>
+<commit_X>"左上角x坐标"</commit_X>
+<LEFT_TOP_X>102</LEFT_TOP_X>
+<commit_Y>"左上角y坐标"</commit_Y>
+<LEFT_TOP_Y>56</LEFT_TOP_Y>
+<commit_BX>"右下角x坐标"</commit_BX>
+<RIGHT_BOTTOM_X>530</RIGHT_BOTTOM_X>
+<commit_BY>"右下角y坐标"</commit_BY>
+<RIGHT_BOTTOM_Y>352</RIGHT_BOTTOM_Y>
+<commit_show>"是否显示图像以及打印终端信息"</commit_show>
+<showOutput>1</showOutput>
+<commit_mode4>"格子检测的另一种方法, 1使用普通USB摄像头，2表示需要进行额外初始化的摄像头"</commit_mode4>
+<modeGrid2>2</modeGrid2>
+<commit_brightness>"洛日摄像头的亮度设置0-64"</commit_brightness>
+<camera_BRIGHTNESS>50</camera_BRIGHTNESS>
+<commit_gain>"洛日摄像头的增益设置0-100"</commit_gain>
+<camera_GAIN>60</camera_GAIN>
+<row_resolution_commit>"定义格子的横向精度，是一个百分比值1-100，同时需要将modeScan设置为1，建议取可以被100整除的值"</row_resolution_commit>
+<row_resolution>10</row_resolution>
+<col_resolution_commit>"定义格子的竖向精度，是一个百分比值1-100"</col_resolution_commit>
+<col_resolution>10</col_resolution>
+<image_fliped_direc_commit>"定义原始图像翻转的形式，0: 沿横向x轴翻转, 1: 沿竖向y轴翻转, -1: x、y轴同时翻转, -2不进行翻转"</image_fliped_direc_commit>
+<image_fliped_direc>-2</image_fliped_direc>
+<g_medianBlurGridThresh_commit>"图像滤波因子，数值越大则过滤越好"</g_medianBlurGridThresh_commit>
+<g_medianBlurGridThresh>17</g_medianBlurGridThresh>
+</opencv_storage>
