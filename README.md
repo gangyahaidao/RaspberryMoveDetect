@@ -17,7 +17,8 @@
     * make
 
 ## 运行截图
-    * 功能1截图
-    ![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-13-092613_1024x600_scrot.png)
-    * 功能2截图
-    ![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-12-154513_1024x600_scrot.png)
+* 功能1截图
+![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-13-092613_1024x600_scrot.png)
+
+* 功能2截图
+![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-12-154513_1024x600_scrot.png)
