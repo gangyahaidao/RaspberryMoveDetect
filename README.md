@@ -7,7 +7,7 @@
 
 ## 使用方法
 * 步骤1：安装bgslibrary库，地址为：https://github.com/andrewssobral/bgslibrary
-    * 这个库是专门做背景剔除运动检测的库，里面包含各种不同效率和效果的算法，针对树莓派选择了使用DPMean算法，本库只是在功能1中使用，功能2依赖于opencv不需要安装，树莓派上具体安装如下：
+    * 这个库是专门做背景剔除运动检测的库，里面包含各种不同效率和效果的算法，相比于opencv原生的运动检测算法，bgslibrary没有鬼影以及残留等问题，针对树莓派选择了使用DPMean算法，本库只是在功能1中使用，功能2依赖于opencv不需要安装，树莓派上具体安装如下：
         * mkdir build
         * cmake ..
         * make
@@ -17,4 +17,7 @@
     * make
 
 ## 运行截图
-![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-12-154513_1024x600_scrot.png)
+    * 功能1截图
+    ![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-13-092613_1024x600_scrot.png)
+    * 功能2截图
+    ![](https://github.com/gangyahaidao/RaspberryMoveDetect/blob/master/images/2018-12-12-154513_1024x600_scrot.png)
